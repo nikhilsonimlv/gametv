@@ -39,7 +39,7 @@ class Messages extends Translations {
           'percentage': 'percentage',
           'recommended_for_you': 'Recommended for you',
         },
-        'ja_JA': {
+        'ja_JP': {
           'app_name': 'ゲーム',
           'label_username': 'ユーザー名',
           'label_password': 'パスワード',
