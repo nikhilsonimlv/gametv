@@ -1,8 +1,6 @@
 # gametv
 
 A new Flutter application using getx which include localization etc.
-
-#  Flutter Animated UI :- 
 If you like the UI of the application, your star ⭐️⭐️⭐️⭐️⭐️ to repo will definitely motivate me 👦🏻😃.
 
 ## Output📱
