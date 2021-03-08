@@ -1,16 +1,12 @@
 # gametv
 
-A new Flutter application.
+A new Flutter application using getx which include localization etc.
 
-## Getting Started
+#  Flutter Animated UI :- 
+If you like the UI of the application, your star ⭐️⭐️⭐️⭐️⭐️ to repo will definitely motivate me 👦🏻😃.
 
-This project is a starting point for a Flutter application.
+## Output📱
+<img src="assets/images/en_l.png" width="200" height="400" />   <img src="assets/images/en_h.png" width="200" height="400" />   <img src="assets/images/en_hd.png" width="200" height="400" />
 
-A few resources to get you started if this is your first Flutter project:
+<img src="assets/images/jp_l.png" width="200" height="400" />   <img src="assets/images/jp_h.png" width="200" height="400" />   <img src="assets/images/jp_d.png" width="200" height="400" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
